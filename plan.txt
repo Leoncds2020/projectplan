@@ -1,5 +1,6 @@
 -Do research
 -Read a book
+Conduct interview
 -Go running
 -do requirement analysis
 -Do implimentation
