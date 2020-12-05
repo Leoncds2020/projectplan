@@ -1,10 +1,10 @@
 -Do research
 -Read a book
-Conduct interview
+-Conduct interview
 -Go running
--do requirement analysis
+-Do requirement analysis
 -Do use case anlysis
 -Do implimentation
 -Do testing
-deploy plan
-sell everything
+-deploy plan
+-sell everything
