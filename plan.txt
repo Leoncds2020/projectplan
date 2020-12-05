@@ -1,3 +1,4 @@
 -Do research
+-Read a book
 -do requirement analysis
 -Do implimentation
