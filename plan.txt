@@ -5,3 +5,4 @@ Conduct interview
 -do requirement analysis
 -Do use case anlysis
 -Do implimentation
+-Do testing
