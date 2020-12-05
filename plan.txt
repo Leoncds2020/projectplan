@@ -1,8 +1,8 @@
 -Do research
 -Read a book
-Conduct interview
+-Conduct interview
 -Go running
-Do requirement analysis
+-Do requirement analysis
 -Do use case anlysis
 -Do implimentation
 -Do testing
