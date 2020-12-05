@@ -1,4 +1,5 @@
 -Do research
 -Read a book
+-Go running
 -do requirement analysis
 -Do implimentation
