@@ -6,4 +6,4 @@
 -Do use case anlysis
 -Do implimentation
 -Do testing
-Deploy plan
+-Deploy plan
