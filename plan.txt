@@ -6,4 +6,5 @@ Conduct interview
 -Do use case anlysis
 -Do implimentation
 -Do testing
+deploy plan
 sell everything
