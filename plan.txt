@@ -6,4 +6,5 @@
 -Do use case anlysis
 -Do implimentation
 -Do testing
--Deploy plan
+-deploy plan
+-sell everything
