@@ -4,3 +4,4 @@ Conduct interview
 -Go running
 -do requirement analysis
 -Do implimentation
+-Do testing
